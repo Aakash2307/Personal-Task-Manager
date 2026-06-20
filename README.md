@@ -75,15 +75,6 @@ No cloud sync. No subscriptions. No account. Your tasks live in a SQLite file on
 
 ---
 
-## 🖥️ Screenshots
-
-<div align="center">
-<i>Dashboard · Focus Window · Settings · Theme Picker</i>
-<br><br>
-<sub>📸 Add your own screenshots here — drag images into this section</sub>
-</div>
-
----
 
 ## 🚀 Quick Start
 
