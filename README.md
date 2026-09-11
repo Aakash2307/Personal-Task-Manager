@@ -82,7 +82,7 @@ No cloud sync. No subscriptions. No account. Your tasks live in a SQLite file on
 
 ```bash
 sudo apt install python3 python3-pip python3-venv   # Ubuntu/Debian
-git clone https://github.com/yourusername/sky-tasks.git
+git clone https://github.com/Aakash2307/sky-tasks.git
 cd sky-tasks
 bash install.sh
 source .venv/bin/activate
